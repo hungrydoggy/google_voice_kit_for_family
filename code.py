@@ -1,6 +1,9 @@
 
-waitButton()
 ledOn()
 
-waitButton()
+sleep(1)
+
 ledOff()
+
+sleep(1)
+
