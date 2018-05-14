@@ -3,8 +3,6 @@ from module.fam import *
 
 
 def main():
-    waitButton()
-
     for i in range(5):
         ledOn()
         sleep(0.5)
