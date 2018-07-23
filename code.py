@@ -1,10 +1,2 @@
 
-
-print("def")
-sleep(1)
-ledOn()
-
-sleep(1)
-ledOff()
-
-
+print('반가워 라즈베리!')
