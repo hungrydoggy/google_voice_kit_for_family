@@ -1,2 +1,6 @@
 python run.py
 /home/pi/Project/google_voice_kit_for_family
+
+
+# loc : '~/.config/geany/geany.conf'
+terminal_cmd=x-terminal-emulator --command="/bin/sh %c"
