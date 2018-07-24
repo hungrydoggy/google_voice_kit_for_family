@@ -1,0 +1,2 @@
+python run.py
+/home/pi/Project/google_voice_kit_for_family
